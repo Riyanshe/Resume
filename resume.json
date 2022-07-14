@@ -1,0 +1,86 @@
+{
+    "basics": {
+        "name": "Riyanshi Gupta",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2001@iiitkota.ac.in",
+        "phone": "",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), pursuing my B.tech in Electronics & Communication engineering.I am a learning enthusiast and I like to code and explore new coding opportunities.",
+        "location": {
+            "address": "Pratap Nagar",
+            "postalCode": "302033",
+            "city": "Jaipur",
+            "countryCode": "India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "Riyanshe",
+                "url": "https://github.com/Riyanshe"
+            },
+            {
+                "network": "linkedin",
+                "username": "Riyanshi Gupta",
+                "url": "https://www.linkedin.com/in/riyanshi-gupta-6b6464229/"
+            },
+            {
+                "network": "Instagram",
+                "username": "reyanshe28",
+                "url": "https://www.instagram.com/reyanshe28/"
+            }
+        ]
+    },
+    
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.48",
+            "courses": [
+                "Electronics & Communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Developer",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "MySQL",
+                "Git",
+                "C/C++",
+                "DSA",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Writing",
+            "keywords": [
+                "Poems",
+                "Poetry"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Badminton"
+            ]
+        }
+    ]
+}
